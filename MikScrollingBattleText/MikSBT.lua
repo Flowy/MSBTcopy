@@ -1,6 +1,6 @@
 -------------------------------------------------------------------------------
 -- Title: Mik's Scrolling Battle Text
--- Author: Mikord
+-- Author: Mikord, Updated by Cfsg
 -------------------------------------------------------------------------------
 
 -- Create mod namespace and set its name.
